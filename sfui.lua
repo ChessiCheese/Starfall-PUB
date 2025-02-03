@@ -5,7 +5,7 @@
 SFUi = class("SFUi")
 
 SFUi.static.palette = {
-    foreground = Color(255, 255, 255, 100),
+    foreground = Color(255, 255, 255),
     background = Color(30, 30, 30, 100),
     hover = Color(75, 75, 75),
     component = Color(45, 45, 45),
